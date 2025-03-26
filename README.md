@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kholiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/nikhil_dev448" target="blank"><img src="https://img.shields.io/twitter/follow/nikhil_dev448?logo=twitter&style=for-the-badge" alt="nikhil_dev448" /></a> </p>
+<p align="left"> <a href="https://cozy-clafoutis-010b21.netlify.app/"/></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
