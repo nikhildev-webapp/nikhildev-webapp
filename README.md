@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kholiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <a href="https://cozy-clafoutis-010b21.netlify.app/"/></a> </p>
 
